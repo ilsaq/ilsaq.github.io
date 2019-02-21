@@ -4,8 +4,10 @@ body {
 
 h1{
   font-family: "Book Antiqua", Georgia, serif;
-}s
+}
 
 div {
   background-colour: #000000
+{
+  font-family: monospace;
 }
