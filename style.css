@@ -1,13 +1,18 @@
 body {
-  background-color: #DEB887
+  background-color: #8FBC8F;
+}
+div.gallery {
+  text-align: left;
 }
 
-h1{
-  font-family: "Book Antiqua", Georgia, serif;
+div.gallery:hover {
+text-align: center;
 }
 
-div {
-  background-colour: #000000
-{
-  font-family: monospace;
+div.gallery img {
+  text-align: right;
 }
+
+div.desc {
+  padding: 15px;
+  text-align: center;
