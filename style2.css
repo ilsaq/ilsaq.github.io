@@ -1,0 +1,23 @@
+#aboutus {
+   color:green;
+   font-family:serif;
+ }
+ body{
+   background-image: url(https://i.pinimg.com/originals/c4/63/80/c46380ef6e28d557d6423abc04fbb2e5.jpg);
+
+ }
+ h2{
+   text-align:left;
+ }
+ #whatarewe{
+   text-align:left;
+   font-size:large
+ }
+#aim{
+text-align:left;
+font-size:large;
+}
+#charity{
+  text-align: left;
+  font-size: large;
+}

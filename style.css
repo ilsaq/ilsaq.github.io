@@ -11,3 +11,18 @@ div {
 {
   font-family: monospace;
 }
+div.gallery {
+  text-align: left;
+}
+
+div.gallery:hover {
+text-align: center;
+}
+
+div.gallery img {
+  text-align: right;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
