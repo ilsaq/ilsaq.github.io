@@ -1,0 +1,25 @@
+#Explorecountries {
+  Font-family: serif;
+  font-size: 99px;
+}
+
+body {
+  background-image: url(http://images6.fanpop.com/image/photos/41300000/Champagne-Beach-Vanuatu-travel-41341208-1600-900.jpg);
+}
+
+h2 {
+  font-family: serif;
+  color: white;
+  font-size: 50px;
+}
+
+h3 {
+  font-family:serif;
+  color: black;
+  font-size: 25px;
+}
+
+h4 {
+  font-family: "Book Antiqua", Georgia, serif;
+  font-size: 18px;
+}
