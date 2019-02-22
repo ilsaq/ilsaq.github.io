@@ -1,15 +1,5 @@
 body {
-  background-color: #DEB887
-}
-
-h1{
-  font-family: "Book Antiqua", Georgia, serif;
-}
-
-div {
-  background-colour: #000000
-{
-  font-family: monospace;
+  background-color: #8FBC8F;
 }
 div.gallery {
   text-align: left;
